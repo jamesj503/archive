@@ -46,7 +46,9 @@ Press on the right-hand side text box.
 
 Download the new release. (either one of the .txt files)
 
-![image](https://user-images.githubusercontent.com/70408059/115093451-f75e9a80-9edf-11eb-8d53-645c012b7adf.png)
+https://github.com/jamesj503/allenisd-canvas-css-styling/releases/tag/v1.24
+
+![image](https://user-images.githubusercontent.com/70408059/115094044-cbdcaf80-9ee1-11eb-9655-2208921cc097.png)
 
 Open it up. It will open up in your default text editor.
 
