@@ -16,8 +16,10 @@ https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgm
 Go to that link and download the CSS runner. 
 Press add new.
 Press on the right-hand side text box. 
-Copy the CSS sheet from my Github push called css-sheet
-Paste this whoe sheet into the right-hand side of the editor and press save.
+Download the new release https://github.com/jamesj503/allenisd-canvas-css-styling/releases
+Extract the file and open up the CSS sheet you want. Ignore the read.md, .gitignore, and the license file.
+Open up the file in a text editor and copy the WHOLE thing.
+Paste this into the right-hand side of the editor in the extension (see image below)
 Make sure the URL is set to https://canvas.allenisd.org/
 ![image](https://user-images.githubusercontent.com/70408059/115090680-1e669d80-9edb-11eb-9db2-59bb694c1597.png)
 Any help needed? Email me!
