@@ -18,7 +18,7 @@ https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgm
 Go to that link and download the CSS runner. 
 Press add new.
 Press on the right-hand side text box. 
-Download the new release https://github.com/jamesj503/allenisd-canvas-css-styling/releases
+Download the new release (where is says .zip source code, not the .targz) https://github.com/jamesj503/allenisd-canvas-css-styling/releases
 Extract the file and open up the CSS sheet you want. Ignore the read.md, .gitignore, and the license file.
 Open up the file in a text editor and copy the WHOLE thing.
 Paste this into the right-hand side of the editor in the extension (see image below)
