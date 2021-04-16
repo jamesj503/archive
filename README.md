@@ -17,7 +17,6 @@ The "missing" label is no longer visible! (but the red dot next to them is just 
 
 ![image](https://user-images.githubusercontent.com/70408059/115091224-95506600-9edc-11eb-9679-167efcd2e852.png)
 
-
 How to use:
 https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld
 Go to that link and download the CSS runner. And don't worry, even those school-appointed Chromebooks can use this without exploding.
@@ -26,13 +25,13 @@ Press add new.
 
 Press on the right-hand side text box. 
 
-Download the new release (do not download the source code. download the file with the code next to it) 
+Download the new release (do not download the source code. download the file with the cube next to it) 
 
 ![image](https://user-images.githubusercontent.com/70408059/115091724-f7f63180-9edd-11eb-8ea8-8933e0b21adf.png)
 
 https://github.com/jamesj503/allenisd-canvas-css-styling/releases
 
-Extract the file and open up the CSS sheet you want. Ignore the read.md, .gitignore, and the license file.
+Open it up. A pop-up will come up saying "How do you want to open this file?" Press on notepad<--
 
 Open up the file in a text editor and copy the WHOLE thing.
 
