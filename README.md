@@ -6,6 +6,7 @@ I am a student inside Allen ISD. I have a lot of free time since it is COVID yea
 I hate the look of canvas, so I made everything more simple on this site...
 
 Style 1: AESTHETIC (kinda)
+
 Everthing is in lower case just because I like it more that way!
 
 Colors are faded on the teachers pictures
