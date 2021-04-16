@@ -1,0 +1,19 @@
+div.odm_extension.image_downloader_wrapper {
+  filter: grayscale(100%);
+}
+
+#flash_message_holder {
+  filter: grayscale(100%);
+}
+
+div.screenreader-only {
+  filter: grayscale(100%);
+}
+
+div.ic-app {
+  filter: grayscale(100%);
+}
+
+#nav-tray-portal {
+  filter: grayscale(100%);
+}
