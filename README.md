@@ -17,6 +17,16 @@ The "missing" label is no longer visible! (but the red dot next to them is just 
 
 ![image](https://user-images.githubusercontent.com/70408059/115091224-95506600-9edc-11eb-9679-167efcd2e852.png)
 
+Style 2: ALL-BOLD
+
+![image](https://user-images.githubusercontent.com/70408059/115093493-21b05800-9ee0-11eb-8de1-cf5c36efd522.png)
+
+Everything is CAPS LOCK.
+
+Only the dashboard for now. I will be doing teachers pages in the next update.
+
+Not as **good** as the aesthetic style, but still took me a while to do.
+
 How to use:
 https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld
 Go to that link and download the CSS runner. And don't worry, even those school-appointed Chromebooks can use this without exploding.
@@ -25,13 +35,11 @@ Press add new.
 
 Press on the right-hand side text box. 
 
-Download the new release (do not download the source code. download the file with the cube next to it) 
+Download the new release. (either one of the .txt files)
 
-![image](https://user-images.githubusercontent.com/70408059/115091724-f7f63180-9edd-11eb-8ea8-8933e0b21adf.png)
+![image](https://user-images.githubusercontent.com/70408059/115093451-f75e9a80-9edf-11eb-8d53-645c012b7adf.png)
 
-https://github.com/jamesj503/allenisd-canvas-css-styling/releases
-
-Open it up. A pop-up will come up saying "How do you want to open this file?" Press on notepad<--
+Open it up. It will open up in your default text editor.
 
 Open up the file in a text editor and copy the WHOLE thing.
 
