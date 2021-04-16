@@ -26,7 +26,11 @@ Press add new.
 
 Press on the right-hand side text box. 
 
-Download the new release (where is says .zip source code, not the .targz) https://github.com/jamesj503/allenisd-canvas-css-styling/releases
+Download the new release (do not download the source code. download the file with the code next to it) 
+
+![image](https://user-images.githubusercontent.com/70408059/115091724-f7f63180-9edd-11eb-8ea8-8933e0b21adf.png)
+
+https://github.com/jamesj503/allenisd-canvas-css-styling/releases
 
 Extract the file and open up the CSS sheet you want. Ignore the read.md, .gitignore, and the license file.
 
