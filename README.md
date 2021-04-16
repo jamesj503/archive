@@ -27,8 +27,17 @@ Only the dashboard for now. I will be doing teachers pages in the next update.
 
 Not as **good** as the aesthetic style, but still took me a while to do.
 
+Style 3: grayspace
+
+![image](https://user-images.githubusercontent.com/70408059/115093733-e5312c00-9ee0-11eb-9a05-9ba8b4daf729.png)
+
+This is the cleanest one yet. I even photoshoped the logo to be gray!
+
+Nothing really to say about this one... its all grayscale!!!
+
 How to use:
 https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld
+
 Go to that link and download the CSS runner. And don't worry, even those school-appointed Chromebooks can use this without exploding.
 
 Press add new.
