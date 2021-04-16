@@ -7,9 +7,11 @@ I hate the look of canvas, so I made everything more simple on this site...
 
 Style 1: AESTHETIC (kinda)
 Everthing is in lower case just because I like it more that way!
-Colors are faded
-Teachers home pages aren't as ugly
-The "missing" label is no longer in bold
+Colors are faded on the teachers pictures, 
+Teachers home pages aren't as ugly, 
+The "missing" label is no longer visible! (but the red dot next to them is just so you can still tell!)
+![image](https://user-images.githubusercontent.com/70408059/115091224-95506600-9edc-11eb-9679-167efcd2e852.png)
+
 
 How to use:
 https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld
