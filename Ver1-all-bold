@@ -1,0 +1,135 @@
+span.hidden-phone {
+  text-transform: uppercase;
+  text-decoration: underline;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 18px;
+  font-family: Monaco;
+  text-align: center;
+  background-color: #FFFFFF;
+  color: #000000;
+}
+
+a.fOyUs_bGBk.eHiXd_bGBk.eHiXd_brAJ.eHiXd_ycrn.eHiXd_bNlk.eHiXd_cuTS {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-style: normal;
+}
+
+span.MlJlv_btWg {
+  font-weight: 700;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+span.Grouping-styles__title {
+  font-weight: 700;
+  font-style: normal;
+}
+
+span.enRcg_bGBk.enRcg_dfBC.enRcg_eQnG.enRcg_bLsb {
+  font-weight: 700;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+span.fOyUs_bGBk.fOyUs_ImeN.fOyUs_UeJS {
+  font-weight: 700;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+div.Day-styles__secondary {
+  font-weight: 700;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+div span span {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-style: normal;
+}
+
+span.eoNrR_blJt {
+  font-weight: 700;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+span.sJGfW_blJt {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-style: normal;
+}
+
+span.enRcg_bGBk.enRcg_ycrn.enRcg_bdMA.enRcg_eQnG {
+  font-weight: 700;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+div.enRcg_bGBk.enRcg_cMDj.enRcg_pEgL.enRcg_eQnG {
+  font-weight: 700;
+  font-style: normal;
+}
+
+button.fOyUs_bGBk.eHiXd_bGBk.eHiXd_eYmo.eHiXd_ycrn.eHiXd_bNlk.eHiXd_cuTS {
+  font-weight: 700;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+div.ic-announcement-row__content {
+  font-weight: 700;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+div p strong {
+  font-weight: 700;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+div div p {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-style: normal;
+}
+
+div.show-content.user_content.clearfix.enhanced {
+  font-weight: 700;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+div.ic-app-course-menu.list-view {
+  font-weight: 700;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+div.ic-Layout-contentMain {
+  font-weight: 700;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+div.ic-app-header__main-navigation {
+  font-weight: 700;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+svg.ic-icon-svg.ic-icon-svg--courses {
+  font-weight: 700;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+button.ic-app-header__menu-list-link {
+  font-weight: 700;
+  font-style: normal;
+  text-transform: uppercase;
+}
