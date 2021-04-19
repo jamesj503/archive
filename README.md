@@ -5,7 +5,7 @@ I am a student inside Allen ISD. I have a lot of free time since it is COVID yea
 
 I hate the look of canvas, so I made everything more simple on this site...
 
-Style 1: AESTHETIC (kinda)
+Style 1: Muli
 
 Everthing is in lower case just because I like it more that way!
 
@@ -13,9 +13,14 @@ Colors are faded on the teachers pictures
 
 Teachers home pages aren't as ugly
 
-The "missing" label is no longer visible! (but the red dot next to them is just so you can still tell!)
+The missing label had an update
 
 ![image](https://user-images.githubusercontent.com/70408059/115091224-95506600-9edc-11eb-9679-167efcd2e852.png)
+^original update, still available within the first release.
+![image](https://user-images.githubusercontent.com/70408059/115263121-c4442300-a0fa-11eb-88d4-99a460664d9d.png)
+^new release, how it looks within iphone/small screen mode
+![image](https://user-images.githubusercontent.com/70408059/115263235-dfaf2e00-a0fa-11eb-99d4-f3117879b778.png)
+^new release, how it looks full screen on PC mode
 
 Style 2: ALL-BOLD
 
