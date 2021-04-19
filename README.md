@@ -39,7 +39,11 @@ Only the dashboard for now. I will be doing teachers pages in the next update.
 
 Not as **good** as the aesthetic style, but still took me a while to do.
 
-Style 3: grayspace
+Style 3: grayspace (will no longer be updated)
+
+Final update available within latest release, or get it here:
+
+https://github.com/jamesj503/allenisd-canvas-css-styling/blob/main/grayspaceFINAL
 
 ![image](https://user-images.githubusercontent.com/70408059/115093733-e5312c00-9ee0-11eb-9a05-9ba8b4daf729.png)
 
