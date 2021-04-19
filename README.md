@@ -10,10 +10,8 @@ Colors are faded on the teachers pictures
 
 Teachers home pages aren't as ugly
 
-The missing label had an update
+The "missing" label had an update
 
-![image](https://user-images.githubusercontent.com/70408059/115091224-95506600-9edc-11eb-9679-167efcd2e852.png)
-^original update, still available within the first release.
 If you want it (https://github.com/jamesj503/allenisd-canvas-css-styling/blob/main/Ver1-aesthetic)
 ![image](https://user-images.githubusercontent.com/70408059/115263121-c4442300-a0fa-11eb-88d4-99a460664d9d.png)
 ^new release, how it looks within iphone/small screen mode
@@ -57,3 +55,8 @@ Any help needed? Email me!
 james.johnston@student.allenisd.org
 
 I will only reply to emails that originate from ALLENISD, so make sure you use your school email to email me.
+
+#Aesthetic (the original update of Muli)
+
+![image](https://user-images.githubusercontent.com/70408059/115091224-95506600-9edc-11eb-9679-167efcd2e852.png)
+^original update, still available within the first release! Check it out if you want!
