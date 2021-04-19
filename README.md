@@ -7,6 +7,8 @@ I hate the look of canvas, so I made everything more simple on this site...
 
 Style 1: Muli
 
+New version (Alpha: Update 4) is available here: https://github.com/jamesj503/allenisd-canvas-css-styling/blob/main/Muli.v4
+
 Everthing is in lower case just because I like it more that way!
 
 Colors are faded on the teachers pictures
