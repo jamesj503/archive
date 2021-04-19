@@ -25,50 +25,31 @@ If you want it (https://github.com/jamesj503/allenisd-canvas-css-styling/blob/ma
 ![image](https://user-images.githubusercontent.com/70408059/115263235-dfaf2e00-a0fa-11eb-99d4-f3117879b778.png)
 ^new release, how it looks full screen on PC mode
 
-Style 2: ALL-BOLD
 
-Newest version is available here:
 
-Published ver.2 : https://github.com/jamesj503/allenisd-canvas-css-styling/blob/main/Ver1-all-bold
+<br>
+<br/>
+How to use this:
 
-![image](https://user-images.githubusercontent.com/70408059/115093493-21b05800-9ee0-11eb-8de1-cf5c36efd522.png)
+Download this extension:
 
-Everything is CAPS LOCK.
-
-Only the dashboard for now. I will be doing teachers pages in the next update.
-
-Not as **good** as the aesthetic style, but still took me a while to do.
-
-Style 3: grayspace (will no longer be updated)
-
-Final update available within latest release, or get it here:
-
-https://github.com/jamesj503/allenisd-canvas-css-styling/blob/main/grayspaceFINAL
-
-![image](https://user-images.githubusercontent.com/70408059/115093733-e5312c00-9ee0-11eb-9a05-9ba8b4daf729.png)
-
-This is the cleanest one yet. I even photoshoped the logo to be gray!
-
-Nothing really to say about this one... its all grayscale!!!
-
-How to use:
 https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld
-
-Go to that link and download the CSS runner. And don't worry, even those school-appointed Chromebooks can use this without exploding.
 
 Press add new.
 
 Press on the right-hand side text box. 
 
-Download the new release. (either one of the .txt files)
+Come back to this page and download the new release, the link is below.
 
-https://github.com/jamesj503/allenisd-canvas-css-styling/releases/tag/v1.24
+https://github.com/jamesj503/allenisd-canvas-css-styling/releases/tag/MuliV4
 
-![image](https://user-images.githubusercontent.com/70408059/115094044-cbdcaf80-9ee1-11eb-9655-2208921cc097.png)
+![image](https://user-images.githubusercontent.com/70408059/115270372-dbd2da00-a101-11eb-9026-111b51d03f3f.png)
+
+^^^Looking at the image above, press the blue text with the red arrow pointing to it.
 
 Open it up. It will open up in your default text editor.
 
-Open up the file in a text editor and copy the WHOLE thing.
+Open up the file in a text editor and copy the WHOLE thing. (press ctrl-a then press ctrl-c)
 
 Paste this into the right-hand side of the editor in the extension (see image below)
 
