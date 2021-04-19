@@ -1,0 +1,306 @@
+@import url(https://fonts.googleapis.com/css2?family=Muli:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap);
+
+@import url(https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap);
+
+
+div.ic-Layout-contentMain {
+  background-color: #FFFFFF;
+}
+
+div.large.ic-Dashboard-header__layout {
+  background-color: #FFFFFF;
+}
+
+div.PlannerApp.large {
+  background-color: #FFFFFF;
+}
+
+div.CompletedItemsFacade-styles__root.planner-completed-items {
+  background-color: #FFFFFF;
+  color: #000000;
+  border-style: none;
+  padding-top: 2px;
+}
+
+div.enRcg_bGBk.enRcg_cMDj.enRcg_bdMA.enRcg_eQnG {
+  font-family: Muli;
+  font-size: 14px;
+  line-height: 30px;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div.Day-styles__secondary {
+  text-align: center;
+  text-transform: lowercase;
+  font-weight: 300;
+  font-style: normal;
+  font-family: Muli;
+}
+
+ol.Grouping-styles__items {
+  background-color: #FFFFFF;
+}
+
+div.ic-app-header__main-navigation {
+  font-size: 130px;
+}
+
+a.ic-app-header__logomark {
+  display: none;
+}
+
+span.fOyUs_bGBk.fOyUs_ImeN.fOyUs_UeJS {
+  font-family: Monaco;
+  font-size: 12px;
+  line-height: 14px;
+  font-weight: 100;
+  font-style: italic;
+  text-decoration: underline;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+span.MlJlv_btWg {
+  text-transform: lowercase;
+  font-weight: 300;
+  font-style: normal;
+  color: #000000;
+}
+
+span.enRcg_bGBk.enRcg_dfBC.enRcg_eQnG.enRcg_bLsb {
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: center;
+  text-decoration: none;
+  border-style: none;
+  border-color: #FFFFFF;
+  font-family: Muli;
+}
+
+a.fOyUs_bGBk.eHiXd_bGBk.eHiXd_brAJ.eHiXd_ycrn.eHiXd_bNlk.eHiXd_cuTS {
+  font-family: Muli;
+  font-size: 15px;
+  line-height: 18px;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+  text-decoration: none;
+  text-align: left;
+  color: #000000;
+}
+
+span.Grouping-styles__title {
+  text-transform: lowercase;
+  text-decoration: none;
+  color: #000000;
+  font-weight: 300;
+  font-style: normal;
+  font-family: Muli;
+  font-size: 14px;
+  text-align: center;
+  padding-left: 65px;
+}
+
+span.Grouping-styles__overlay.Grouping-styles__withImage {
+  background-color: #FFFFFF;
+}
+
+span.bjXfh_daKB {
+  text-transform: lowercase;
+  font-weight: 300;
+  font-style: normal;
+}
+
+span.hidden-phone {
+  text-transform: lowercase;
+  font-size: 30px;
+  text-decoration: none;
+  font-weight: 300;
+  font-style: normal;
+  text-align: center;
+  line-height: 18px;
+  font-family: Lato;
+  background-color: #FFFFFF;
+  color: #A4A4A4;
+  padding-left: 535px;
+}
+
+button.fOyUs_bGBk.eHiXd_bGBk.eHiXd_eYmo.eHiXd_ycrn.eHiXd_bNlk.eHiXd_cuTS {
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div span span {
+  text-transform: lowercase;
+  font-weight: 300;
+  font-style: normal;
+}
+
+div.PlannerItem-styles__score {
+  text-transform: lowercase;
+  font-weight: 300;
+  font-style: normal;
+}
+
+span.enRcg_bGBk.enRcg_cMDj.enRcg_eQnG {
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+input.qBMHb_cwos.qBMHb_ycrn.qBMHb_EMjX {
+  text-transform: lowercase;
+}
+
+div.fOyUs_bGBk.fOyUs_dBtH {
+  text-transform: lowercase;
+}
+
+label.bgKsu_blJt {
+  text-transform: lowercase;
+  text-align: right;
+}
+
+span.fCrpb_bGBk.fCrpb_egrg {
+  text-align: right;
+}
+
+div.enRcg_bGBk.enRcg_cMDj.enRcg_pEgL.enRcg_eQnG {
+  font-weight: 300;
+  font-style: normal;
+  text-decoration: underline;
+  text-transform: lowercase;
+  text-align: right;
+}
+
+span.sJGfW_blJt {
+  text-transform: lowercase;
+  font-weight: 300;
+  font-style: normal;
+}
+
+span.eoNrR_blJt {
+  text-transform: lowercase;
+  font-weight: 300;
+  font-style: normal;
+}
+
+div.Opportunity-styles__oppName {
+  text-transform: lowercase;
+  font-weight: 300;
+  font-style: normal;
+}
+
+span.Opportunity-styles__dueText {
+  text-transform: lowercase;
+  font-weight: 300;
+  font-style: normal;
+}
+
+div div span {
+  text-transform: lowercase;
+  font-weight: 300;
+  font-style: normal;
+  text-align: center;
+}
+
+div div div {
+  text-transform: lowercase;
+  color: #404040;
+}
+
+#stylebot-reader {
+  text-transform: lowercase;
+  font-weight: 300;
+  font-style: normal;
+  text-align: center;
+}
+
+h2 span strong {
+  text-align: left;
+  text-transform: lowercase;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: normal;
+  background-color: #FFFFFF;
+  color: #010101;
+}
+
+tbody tr td {
+  background-color: #FFFFFF;
+  color: #000000;
+}
+
+h4 strong span {
+  text-transform: lowercase;
+  font-weight: 300;
+  font-style: normal;
+  color: #000000;
+  text-align: center;
+  text-decoration: underline;
+}
+
+h3 strong span {
+  text-align: center;
+  font-weight: 300;
+  font-style: normal;
+}
+
+button.btn.submit_button.quiz_submit.btn-secondary {
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+button.Button.submit_button.next-question.btn-secondary {
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div.text {
+  text-transform: lowercase;
+  text-decoration: none;
+  font-weight: 300;
+  font-style: normal;
+}
+
+div div p {
+  text-transform: lowercase;
+  font-weight: 300;
+  font-style: normal;
+  text-decoration: none;
+}
+div.NotificationBadge-styles__activityIndicator.NotificationBadge-styles__hasBadge {
+  color: #FFFFFF;
+  background-color: #FFFFFF;
+  border-color: #FFFFFF;
+  border-style: none;
+  font-weight: 700;
+  font-style: italic;
+  
+}
+span.yyQPt_cSXm {
+  border-color: #000000;
+}
+span span span {
+  background-color: #FFFFFF;
+  color: #D8D8D8;
+}
+button.fOyUs_bGBk.eHiXd_bGBk.eHiXd_dnnz.eHiXd_ycrn.eHiXd_bPzo.eHiXd_cuTS.eHiXd_wWyq {
+  color: #D6D6D6;
+}
+span.mobile-header-title {
+  text-transform: lowercase;
+  font-weight: 300;
+  font-style: normal;
+  font-family: Muli;
+}
