@@ -27,6 +27,10 @@ If you want it (https://github.com/jamesj503/allenisd-canvas-css-styling/blob/ma
 
 Style 2: ALL-BOLD
 
+Newest version is available here:
+
+Published ver.2 : https://github.com/jamesj503/allenisd-canvas-css-styling/blob/main/Ver1-all-bold
+
 ![image](https://user-images.githubusercontent.com/70408059/115093493-21b05800-9ee0-11eb-8de1-cf5c36efd522.png)
 
 Everything is CAPS LOCK.
