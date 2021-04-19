@@ -17,6 +17,7 @@ The missing label had an update
 
 ![image](https://user-images.githubusercontent.com/70408059/115091224-95506600-9edc-11eb-9679-167efcd2e852.png)
 ^original update, still available within the first release.
+If you want it (https://github.com/jamesj503/allenisd-canvas-css-styling/blob/main/Ver1-aesthetic)
 ![image](https://user-images.githubusercontent.com/70408059/115263121-c4442300-a0fa-11eb-88d4-99a460664d9d.png)
 ^new release, how it looks within iphone/small screen mode
 ![image](https://user-images.githubusercontent.com/70408059/115263235-dfaf2e00-a0fa-11eb-99d4-f3117879b778.png)
