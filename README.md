@@ -1,9 +1,4 @@
-# allenisd-canvas-css-styling
-A better look for canvas using a CSS style sheeting.
-
-I am a student inside Allen ISD. I have a lot of free time since it is COVID year.
-
-I hate the look of canvas, so I made everything more simple on this site...
+# Muli: a new visual update for Canvas by Instructure.
 
 Style 1: Muli
 
